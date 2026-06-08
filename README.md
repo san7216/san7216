@@ -102,10 +102,10 @@ print(me.motto())
 <div align="center">
 
 <a href="https://github.com/san7216">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=san7216&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=san7216&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10"/>
 </a>
 <a href="https://github.com/san7216">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=san7216&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=san7216&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10"/>
 </a>
 
 </div>
@@ -116,7 +116,9 @@ print(me.motto())
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=san7216&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=san7216&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10" width="100%"/>
+</a>
 
 </div>
 
@@ -126,7 +128,9 @@ print(me.motto())
 
 <div align="center">
 
-[![Sanjay's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=san7216&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/san7216)
+<a href="https://github.com/san7216">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=san7216&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" width="100%"/>
+</a>
 
 </div>
 
@@ -136,7 +140,9 @@ print(me.motto())
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=san7216&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=san7216&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4" width="100%"/>
+</a>
 
 </div>
 
@@ -266,5 +272,3 @@ print(me.motto())
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
 
 </div>
-
- 
