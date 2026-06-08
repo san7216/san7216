@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sanjay+Njarakkattil&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CSE+Graduate+%7C+ML+%26+Backend+Engineer+%7C+Cloud+Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Sanjay+Njarakkattil&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=CSE+Graduate+%7C+ML+%2B+Backend+Engineer+%7C+Cloud+Enthusiast&amp;descAlignY=62&amp;descSize=16" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Sanjay+%F0%9F%91%8B;B.Tech+CSE+%7C+FISAT+Kerala+%7C+2026;ML+%2B+Backend+%2B+Cloud+%3D+%F0%9F%9A%80;Building+AI+that+makes+a+difference)](https://git.io/typing-svg)
 
@@ -263,7 +263,8 @@ print(me.motto())
 
 *"Build things that matter. Ship things that work."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
 
 </div>
 
+ 
